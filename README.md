@@ -23,7 +23,7 @@
 
 I am a passionate **Frontend Developer** focused on creating dynamic, responsive, and visually appealing web applications. I love bridging the gap between design and code, using modern animations and clean UI principles to bring ideas to life.
 
-- 🎨 I specialize in **React.js, Tailwind CSS, and GSAP** for immersive animations.
+- 🎨 I specialize in **Next.js, Tailwind CSS, and GSAP** for immersive animations.
 - ⚡ **Fun fact:** I love turning static designs into interactive experiences.
 
 ---

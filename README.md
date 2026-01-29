@@ -48,7 +48,7 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
       <h3>Iontana</h3>
       <p><i>Specialized in modern, fast, and secure websites.</i></p>
       <p>Engineered for performance, clarity, and long-term scalability to serve as the foundation of digital growth.</p>
-      <a href="https://www.iontana.com">
+      <a href="https://www.iontana.com" target="_blank">
         <img src="https://img.shields.io/badge/View-Live%20Site-blue?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
@@ -57,7 +57,7 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
       <p><i>Savannah's best authentic Filipino cuisine.</i></p>
       <p>A digital experience reflecting exceptional hospitality and the rich flavors of Filipino culture.</p>
       <br />
-      <a href="https://www.narratreesav.com">
+      <a href="https://www.narratreesav.com" target="_blank">
         <img src="https://img.shields.io/badge/View-Live%20Site-success?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
@@ -65,7 +65,7 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
       <h3>Silk Route Sav</h3>
       <p><i>Fine dining in Savannah, GA.</i></p>
       <p>Showcasing outstanding service and unforgettable culinary experiences through an elegant web presence.</p>
-      <a href="https://www.silkroutesav.com">
+      <a href="https://www.silkroutesav.com" target="_blank">
         <img src="https://img.shields.io/badge/View-Live%20Site-purple?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
@@ -78,8 +78,6 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayreel&theme=tokyonight&hide_border=true&background=0d1117" alt="Lee's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayreel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---

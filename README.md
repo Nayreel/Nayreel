@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Lee%20Ryan%20Garcia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Creative%20Coder%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" alt="Lee Ryan Garcia Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Lee%20Ryan%20Garcia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Creative%20Coder%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" alt="Lee Ryan Garcia Header" width="100%" />
 
   ### *Building digital experiences with code and creativity.*
 
@@ -11,8 +11,8 @@
     <a href="https://www.linkedin.com/in/el015/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:leeryan307@gmail.com>
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
 </div>
@@ -48,7 +48,7 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
       <h3>Iontana</h3>
       <p><i>Specialized in modern, fast, and secure websites.</i></p>
       <p>Engineered for performance, clarity, and long-term scalability to serve as the foundation of digital growth.</p>
-      <a href="INSERT_LINK_HERE">
+      <a href="https://www.iontana.com">
         <img src="https://img.shields.io/badge/View-Live%20Site-blue?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
@@ -57,7 +57,7 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
       <p><i>Savannah's best authentic Filipino cuisine.</i></p>
       <p>A digital experience reflecting exceptional hospitality and the rich flavors of Filipino culture.</p>
       <br />
-      <a href="INSERT_LINK_HERE">
+      <a href="https://www.narratreesav.com">
         <img src="https://img.shields.io/badge/View-Live%20Site-success?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
@@ -65,7 +65,7 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
       <h3>Silk Route Sav</h3>
       <p><i>Fine dining in Savannah, GA.</i></p>
       <p>Showcasing outstanding service and unforgettable culinary experiences through an elegant web presence.</p>
-      <a href="INSERT_LINK_HERE">
+      <a href="https://www.silkroutesav.com">
         <img src="https://img.shields.io/badge/View-Live%20Site-purple?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
@@ -74,20 +74,9 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
 
 ---
 
-### 🚀 **Personal Projects**
-
-| **D-Leecious Tea** 🧋 |
-| :---: |
-| *A dynamic milk tea website built with React.js, Tailwind CSS, and eye-catching GSAP animations.* |
-| [![D-Leecious Tea](https://img.shields.io/badge/View-Project-ff69b4?style=for-the-badge)](https://d-leecious-tea.vercel.app/) |
-
----
-
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayreel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lee's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayreel&theme=tokyonight&hide_border=true&background=0d1117" alt="Lee's Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayreel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />

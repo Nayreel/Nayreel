@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Lee%20Ryan%20Garcia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Creative%20Coder%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" alt="Lee Ryan Garcia Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Lee%20Ryan%20Garcia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Website%20Developer%20%7C%20Creative%20Coder%20%7C%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" alt="Lee Ryan Garcia Header" width="100%" />
 
   ### *Building digital experiences with code and creativity.*
 
@@ -21,10 +21,12 @@
 
 ### 👨‍💻 **About Me**
 
-I am a passionate **Frontend Developer** focused on creating dynamic, responsive, and visually appealing web applications. I love bridging the gap between design and code, using modern animations and clean UI principles to bring ideas to life.
+I am a passionate **Website Developer** focused on building modern, high-performance, and scalable websites and web applications. I enjoy crafting clean, intuitive user experiences while also designing reliable backend integrations and automated workflows.
 
-- 🎨 I specialize in **Next.js, Tailwind CSS, and GSAP** for immersive animations.
-- ⚡ **Fun fact:** I love turning static designs into interactive experiences.
+- 🎨 I specialize in **Next.js, Tailwind CSS, GSAP**, and modern UI animation techniques.
+- 🔗 I work with **GraphQL & REST APIs** to build dynamic, data-driven applications.
+- 🤖 I use **n8n** to create automations, integrations, and workflow-driven systems.
+- ⚡ **Fun fact:** I love turning static designs into interactive, conversion-focused experiences.
 
 ---
 
@@ -32,9 +34,9 @@ I am a passionate **Frontend Developer** focused on creating dynamic, responsive
 
 <div align="center">
 
-| **Core** | **Frontend & UI** | **Tools & Build** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts" width="100" /> | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" width="200" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" width="200" /> |
+| **Core** | **Frontend & UI** | **Backend / Automation** | **Tools & Build** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,ts" width="100" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="260" /> | <img src="https://skillicons.dev/icons?i=graphql,nodejs" width="160" /><br/>REST API · n8n | <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" width="220" /> |
 
 </div>
 

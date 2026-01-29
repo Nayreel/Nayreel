@@ -36,9 +36,23 @@ I am a passionate **Website Developer** focused on building modern, high-perform
 
 | **Core** | **Frontend & UI** | **Backend / Automation** | **Tools & Build** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts" width="100" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" width="260" /> | <img src="https://skillicons.dev/icons?i=graphql,nodejs,n8n,rest" width="160" /> | <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" width="220" /> |
+| 
+<img src="https://skillicons.dev/icons?i=js,ts" height="50" /> 
+| 
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="50" /> 
+| 
+<img src="https://skillicons.dev/icons?i=graphql,nodejs" height="50" />
+<br/><br/>
+<img src="https://cdn.simpleicons.org/n8n/EF6C00" height="50" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" />
+<br/>
+<sub>n8n · REST API</sub>
+| 
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode" height="50" />
+|
 
 </div>
+
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Lee%20Ryan%20Garcia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Website%20Developer%20%7C&descAlignY=55&descAlign=50" alt="Lee Ryan Garcia Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Lee%20Ryan%20Garcia&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Website%20Developer%20%7CdescAlign=50" alt="Lee Ryan Garcia Header" width="100%" />
 
   ### *Building digital experiences with code and creativity.*
 

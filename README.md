@@ -51,10 +51,10 @@ I am a passionate **Website Developer** focused on building modern, high-perform
 <table border="0">
   <tr>
     <td width="33%" align="center">
-      <h3>Iontana</h3>
-      <p><i>Specialized in modern, fast, and secure websites.</i></p>
-      <p>Engineered for performance, clarity, and long-term scalability to serve as the foundation of digital growth.</p>
-      <a href="https://www.iontana.com" target="_blank">
+      <h3>AI Energy Shop</h3>
+      <p><i>AI Energy Shop is an Australian-based e-commerce company</i></p>
+      <p>Specializing in solar power systems, battery storage, and energy-efficient solutions.</p>
+      <a href="https://aienergyshop.com.au" target="_blank">
         <img src="https://img.shields.io/badge/View-Live%20Site-blue?style=flat-square&logo=google-chrome&logoColor=white" />
       </a>
     </td>
